@@ -311,6 +311,7 @@ int main() {
 		//结尾不就是M吗？ 判断啥
 		for (int i = 0; i <= estart;i++)
 		{
+			//adasd
 			
 			if (flag2 > 0) { flag2 = 0; }
 			if (tstart[i] > tstart[eend]&&tstart[i] < tend[eend]) {
